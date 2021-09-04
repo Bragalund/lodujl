@@ -1,4 +1,4 @@
-# 
+# lodujl
 
 Found a file on a computer. Trying too deobfuscate.
 The file is an javascript file, but it seems like som windows-specific malware.
